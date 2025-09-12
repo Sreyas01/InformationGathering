@@ -77,7 +77,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### History of the website :
 
 
-<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/3fd65f7b-6a24-41dc-b8b5-f1aee477132a" />
+<img width="1824" height="1125" alt="image" src="https://github.com/user-attachments/assets/4fcb24d3-3d0d-4460-a778-d3196905908e" />
+
 
 
 ### ping command :

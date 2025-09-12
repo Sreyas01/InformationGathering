@@ -65,7 +65,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ### Whois
 
-<img width="911" height="738" alt="image" src="https://github.com/user-attachments/assets/5738181c-dce0-458c-8b42-afe9500d3663" />
+<img width="1834" height="1145" alt="image" src="https://github.com/user-attachments/assets/17911bc4-3318-4ff0-87cf-0fd66daacbbe" />
+
 
 ### Finding Hosting Company :
 

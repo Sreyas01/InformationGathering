@@ -70,8 +70,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### Finding Hosting Company :
 
+<img width="1852" height="938" alt="image" src="https://github.com/user-attachments/assets/18bedd12-f9c4-4d3b-9253-bc4317c0e837" />
 
-<img width="1617" height="847" alt="image" src="https://github.com/user-attachments/assets/785c5332-534a-4754-85d0-645e2ecb075e" />
 
 
 ### History of the website :
